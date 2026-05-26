@@ -1,0 +1,1 @@
+# motor-condition-monitoring
